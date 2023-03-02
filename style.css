@@ -47,28 +47,3 @@ body {
     background-image: url("https://wallpaperaccess.com/full/546182.jpg");
 
   }
-  footer {
-    background-color: #ddd;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  .container {
-    display: flex;
-    justify-content: center;
-  }
-  
-  .logo {
-    margin-right: 20px;
-  }
-  
-  .logo img {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-  }
-  
-  .text {
-    line-height: 1.5;
-  }
-  
