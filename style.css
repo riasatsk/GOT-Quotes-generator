@@ -22,7 +22,7 @@ body {
   }
   
   #quote {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 20px;
@@ -47,3 +47,5 @@ body {
     background-image: url("https://wallpaperaccess.com/full/546182.jpg");
 
   }
+
+  
