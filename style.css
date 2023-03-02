@@ -5,7 +5,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: 'Montserrat', sans-serif;
+  }
+  body {
+    font-family: 'Comic Neue', cursive;
   }
   
   #quote-container {
